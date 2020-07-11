@@ -22,6 +22,8 @@ async function runSeries() {
   }
 }
 
+/*** Comment one or the other function call ***/
+
 // runSeries()
 runParallel()
 
