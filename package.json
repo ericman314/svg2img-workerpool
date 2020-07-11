@@ -1,0 +1,15 @@
+{
+  "name": "svg2img-workerpool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "svg2img": "^0.7.0",
+    "workerpool": "^6.0.0"
+  }
+}
